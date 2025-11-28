@@ -311,14 +311,6 @@ If you use this code in your research, please cite:
 }
 ```
 
-## Related Publications
-
-- Borjkhani M, Bahrami F, Janahmadi M. (2018). Assessing the role of opioid-induced synaptic plasticity in computational models of hippocampal LTP. *Neural Computation*, 30(8):2045-2071.
-
-- Borjkhani M, Bahrami F, Janahmadi M. (2018). Formation of pathological addiction memories: a computational approach. *Front Comput Neurosci*, 12:75.
-
-- Borjkhani M, Bahrami F, Janahmadi M. (2022). Investigating cocaine-induced chaotic neuronal dynamics through computational modeling. *Chaos*, 32(7):073102.
-
 ## Key References
 
 - Dong Y, Nestler EJ. (2014). The neural rejuvenation hypothesis of cocaine addiction. *Trends Pharmacol Sci*, 35(8):374-383.
